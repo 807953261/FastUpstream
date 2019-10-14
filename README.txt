@@ -1,6 +1,8 @@
 																			Compiling
 
-A Makefile is provided (the executable is giscup.out)
+A Makefile is provided (the executable is giscup.out).
+
+Dependency: a folder "libs" with the RapidJSON libraryis required.
 
 To compile, just type "make" (the executable will be giscup.out)
 
